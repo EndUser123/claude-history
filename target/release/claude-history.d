@@ -1,0 +1,1 @@
+P:\packages\claude-history\target\release\claude-history.exe: P:\packages\claude-history\src\cli.rs P:\packages\claude-history\src\database.rs P:\packages\claude-history\src\ingest.rs P:\packages\claude-history\src\lib.rs P:\packages\claude-history\src\main.rs P:\packages\claude-history\src\mcp.rs
